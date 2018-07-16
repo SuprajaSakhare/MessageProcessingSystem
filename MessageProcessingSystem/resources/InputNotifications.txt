@@ -1,0 +1,75 @@
+10 sales of apple at 10p each
+apple at 10p
+banana at 30p
+mango at 20p
+mango at 20p
+apple at 10p
+20 sales of guava at 40p each
+banana at 30p
+apple at 10p
+add 20p apple
+sub 10p banana
+sub 10p banana
+guava at 40p
+guava at 40p
+20 sales of mango at 20p each
+20 sales of guava at 40p each
+add 20p apple
+sub 10p banana
+sub 10p banana
+banana at 30p
+mango at 20p
+apple at 10p
+20 sales of guava at 40p each
+210 sales of banana at 30p each
+guava at 40p
+banana at 30p
+mango at 20p
+apple at 10p
+20 sales of apple at 10p each
+apple at 10p
+banana at 30p
+mango at 20p
+mango at 20p
+20 sales of banana at 30p each
+apple at 10p
+banana at 30p
+apple at 10p
+guava at 40p
+guava at 40p
+banana at 30p
+mango at 20p
+apple at 10p
+20 sales of apple at 10p each
+apple at 10p
+banana at 30p
+mango at 20p
+mango at 20p
+apple at 10p
+banana at 30p
+apple at 10p
+guava at 40p
+30 sales of mango at 20p each
+guava at 40p
+banana at 30p
+mango at 20p
+apple at 10p
+20 sales of apple at 10p each
+apple at 10p
+banana at 30p
+mango at 20p
+mango at 20p
+apple at 10p
+banana at 30p
+apple at 10p
+guava at 40p
+guava at 40p
+banana at 30p
+mango at 20p
+apple at 10p
+20 sales of apple at 10p each
+add 30p guava
+mul 2 mango
+add 30p guava
+guava at 40p
+guava at 40p
